@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>코딩의 민족</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+	<h1 id="title">코딩의 민족</h1>
+	<h2 id="subtitle">넌 코딩할 때가 제일 이뻐</h2>
+	<div class="menu">
+		<img class=menuimg src="./images/chicken.jpg">
+		<div class="menuChar">
+			<p class="menutitle">코딩에 빠진 닭</p>
+			<p class="explanation">주머니가 가벼운 당신의 마음까지 생각한 착한 가격!</p>
+			<a class="payment" href="#">바로 결제</a>
+		</div>
+	</div>
+	<div class="menu">
+		<img class=menuimg src="./images/sushi.jpg">
+		<div class="menuChar">
+			<p class="menutitle">코코 스시</p>
+			<p class="explanation">주머니가 가벼운 당신의 마음까지 생각한 착한 가격!</p>
+			<a class="payment" href="#">바로 결제</a>
+		</div>
+	</div>
+	<div class="menu">
+		<img class=menuimg src="./images/burger.jpg">
+		<div class="menuChar">
+			<p class="menutitle">코데리아</p>
+			<p class="explanation">주머니가 가벼운 당신의 마음까지 생각한 착한 가격!</p>
+			<a class="payment" href="#">바로 결제</a>
+		</div>
+	</div>
+	<div class="menu">
+		<img class=menuimg src="./images/bibimbap.jpg">
+		<div class="menuChar">
+			<p class="menutitle">코가네</p>
+			<p class="explanation">주머니가 가벼운 당신의 마음까지 생각한 착한 가격!</p>
+			<a class="payment" href="#">바로 결제</a>
+		</div>
+	</div>
+</body>
+</html>

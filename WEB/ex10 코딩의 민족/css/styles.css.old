@@ -1,0 +1,51 @@
+@font-face {
+    font-family: "bmjua";
+    src: url("./fonts/BMJUA_otf.otf")
+}
+
+* {
+  box-sizing: border-box;
+  font-family: "bmjua";
+  text-align: center;
+}
+
+body{
+	background-color: rgb(240, 232, 217);
+}
+
+#title{
+	margin-top: 75px;
+	margin-bottom: 30px;
+	font-size: 64px;
+}
+
+#subtitle{
+	margin-top: 0px;
+	margin-bottom: 75px;
+	font-size: 32px;
+}
+
+.menu{
+	border-radius: 10px;
+	color: rgb(88, 89, 91);
+	background-color: (255, 255, 255)
+	padding: 20px;
+	margin-bottom: 50px;
+}
+.menu .menuimg{
+	width: 300px;
+	height: 200px;
+	border-radius:10px 10px 0px 0px;
+}
+.menu .menutitle{
+	background-color: rgb(255, 255, 255)
+}
+
+.menu .explanation{
+	background-color: rgb(255, 255, 255)
+}
+
+.menu .payment{
+	color: rgb(0, 0, 238);
+	text-decoration: none;
+}
